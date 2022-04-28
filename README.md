@@ -2,7 +2,7 @@
 super dev camp
 
 This is the official repo of the SDC.  
-SDC is a mentorship programs aimed at persons intrested in switching from other careers to IT.  
+SDC is an in-person mentorship programs aimed at people intrested in switching from other careers to IT.  
 The classes are engaging with a lot of live demonstrations and simple assignmments.  
   
 The goal is to build confidence by simplifying the technologies.
